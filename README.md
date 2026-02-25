@@ -26,3 +26,29 @@ Triển khai trực tiếp bằng GitHub Pages.
 
 ## 📂 Cấu trúc dự án
 
+---
+
+## 🛠 Công nghệ sử dụng
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Chart.js  
+- GitHub Pages  
+
+---
+
+## 🔥 Mục tiêu nâng cấp
+
+- Dark Mode  
+- Thống kê chi tiết theo từng môn  
+- Giao diện đẹp hơn  
+- Animation mượt hơn  
+- AI phân tích sâu hơn  
+
+---
+
+## 👨‍💻 Author
+
+Nguyễn Nam Khánh  
+Math Specialized Student
